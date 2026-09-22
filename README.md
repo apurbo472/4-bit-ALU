@@ -25,9 +25,7 @@ This project implements a 4-bit ALU capable of performing multiple arithmetic op
 - Digital logic based implementation
 - Proteus simulation
 
-## Block Diagram
 
-![ALU Block Diagram](Circuit_Diagram/ALU_Block_Diagram.png)
 
 ## Circuit
 
