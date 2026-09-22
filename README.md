@@ -29,7 +29,7 @@ This project implements a 4-bit ALU capable of performing multiple arithmetic op
 
 ## Circuit
 
-![ALU Circuit](Circuit_Diagram/ALU_Circuit.png)
+![ALU Circuit](Screenshot 2026-09-23 000109.png)
 
 ## Project Structure
 
